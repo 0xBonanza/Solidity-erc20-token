@@ -14,3 +14,5 @@
 <h2>Deployment</h2>
 <p>The contract has been deployed successfully on Kovan test network at the following address: 0xE8Bb1F9B736Fe6153804fA05d532358c2d533454</p>
 <p>&nbsp;</p>
+<h2>How to use?</h2>
+<p dir="auto">This contract has been created by using Python and Brownie. So you should consider using both these tools to reproduce the exact result.</p>
